@@ -10,7 +10,7 @@
     "hosted_url": "",
     "quick_deploy": "",
     "deploy_buttons": [],
-    "language": ["Typescript"],
+    "language": ["Typescript", "NodeJS"],
     "redis_commands": ["JSON.GET", "JSON.SET", "JSON.DEL", "JSON.ARRINSERT", "JSON.ARRINDEX", "JSON.ARRPOP", "SUBSCRIBE", "PUBLISH"],
     "redis_features": ["json", "pubsub"],
     "redis_modules": ["RediJSON"],
